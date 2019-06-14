@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+    margin-top: 350px;
+}
+button, p, input{
+    margin: auto auto;
+}
+button{
+    background-color:rgb(174, 174, 174);
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 30px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+input{
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+ p{
+     margin-bottom: 30px;
+     font-size: 50px;
+     font-weight: 800;
+ }
+ button:hover{
+     color: rgb(174, 174, 174);
+     background-color: white;
+ }
